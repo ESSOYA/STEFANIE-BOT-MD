@@ -49,14 +49,14 @@
       "deviceSignature": "MRvVJGujUaLC22raCl3IhykFCPrkPZnYQQaAO5YZOXZDtccrP7AUQUpcYAZY20lJgqedNHcIbhUOdTTcj+7xiQ=="
     },
     "me": {
-      "id": "24104369941:1@s.whatsapp.net",
+      "id": "24107862296:1@s.whatsapp.net",
       "verifiedName": "",
       "name": "WhatsApp Bot 2"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "24104369941:1@s.whatsapp.net",
+          "name": "24107862296:1@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -363,7 +363,7 @@
       }
     },
     "sessions": {
-      "24104369941.0": {
+      "24107862296.0": {
         "_sessions": {
           "BV3r+9a3aFv9ytGeCsiyXCoARnwh7zmGeadLDGov/fc0": {
             "registrationId": 1774541055,
